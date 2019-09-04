@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gasingdong/API-III/issues"
   },
-  "homepage": "https://github.com/gasingdong/API-III#readme"
+  "homepage": "https://github.com/gasingdong/API-III#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
